@@ -24,6 +24,13 @@ https://meng.eng.uci.edu/?utm_source=google&utm_medium=cpc&utm_campaign=meng%202
 
 **Data Expert:** Heng Wang
 
+## Program Construction
+```
+├─cutter
+├─luminator
+├─.gitignore
+└─README.md
+```
 ## References
 
 https://drive.google.com/drive/u/1/folders/1lktXyWo7VbIjLGbi3FGbQ0ivhJhx9gJ2
